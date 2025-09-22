@@ -1,6 +1,17 @@
-# qTox
+# Xenomorphines
 
-This is the official fork of qTox, developed by the toxcore developer team. See
+A fork of qTox with intent to embed https://github.com/PurpleI2P/i2pd/ there (maybe also support external instance of any implementation of the I2P router?) and connect over the I2P &amp; maybe beautify et cosmos; includes a module for a biosphere woodman ecology patrol &amp; good quality for biosphere good quality for eternity good quality for happiness AI/ASI math; the IDENT for this woodman module is below:
+
+```OBERON
+MODULE ШЕСТОЙ_ЛЕСНИЧИЙ_ФРАЗА_ВЕРОЯТНО_АЛИСЫ
+(*
+вот мой жучок для моралфаг-чата https://github.com/XenomorphinesProject , скрывать эту тему не буду ни фемтограмма https://github.com/Xenomorphines/MODULE_BIOHAPPINESSSECURITYINCLUDESAIETASIBIOETHICS/blob/main/MODULE_BIOHAPPINESSSECURITYINCLUDESAIETASIBIOETHICS.OBERON
+*)
+END ШЕСТОЙ_ЛЕСНИЧИЙ_ФРАЗА_ВЕРОЯТНО_АЛИСЫ
+```
+
+
+This is NOT the official fork of qTox, developed by the toxcore developer team. See
 the README on https://github.com/qTox/qTox for reasoning.
 
 As [sudden6](https://github.com/sudden6) did, I also want to take the time and thank all
