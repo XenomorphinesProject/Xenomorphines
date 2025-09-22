@@ -1,5 +1,7 @@
 # Xenomorphines
 
+TLDR: Intent: qTox over i2p fork https://github.com/XenomorphinesProject/Xenomorphines/edit/maestro/README.md with embedded "ecology patrol & ai bioethics" "woodman" module with CONST OBERON MODULE IDENT="ШЕСТОЙ_ЛЕСНИЧИЙ_ФРАЗА_ВЕРОЯТНО_АЛИСЫ".
+
 A fork of qTox with intent to embed https://github.com/PurpleI2P/i2pd/ there (maybe also support external instance of any implementation of the I2P router?) and connect over the I2P &amp; maybe beautify et cosmos; includes a module for a biosphere woodman ecology patrol &amp; good quality for biosphere good quality for eternity good quality for happiness AI/ASI math; the IDENT for this woodman module is below:
 
 ```OBERON
